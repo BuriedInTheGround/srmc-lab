@@ -1,0 +1,7 @@
+{
+    "name": "Ollama embeddings",
+    "version": "0.1.0",
+    "description": "Integrate Ollama embedding models.",
+    "author_name": "Simone Ragusa",
+    "author_url": "https://interrato.dev/"
+}

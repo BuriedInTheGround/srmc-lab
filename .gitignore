@@ -1,0 +1,16 @@
+.direnv/
+
+# Cheshire Cat
+data/
+static/
+plugins/*
+!plugins/ollama_embeddings/
+plugins/**/settings.json
+
+# Documents for RAG
+rag-docs/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
