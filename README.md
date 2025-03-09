@@ -2,6 +2,18 @@
 
 # SRMC Laboratory 2024/2025
 
+## Requirements
+
+- **Docker** (version 27.5.1) **with Docker Compose** plugin (version 2.33.0)
+- LLM service **API key** (e.g., Gemini API key)
+- **Ollama** (version 0.5.12), optional, for experimenting with the local setup
+
+> [!NOTE]
+> Reported version numbers are only a suggestion, as they correspond to the
+> tested versions.
+
+Read the next section for a step-by-step guide to setting up the requirements.
+
 ## Setup
 
 ### Step 1: Install Docker and Compose
