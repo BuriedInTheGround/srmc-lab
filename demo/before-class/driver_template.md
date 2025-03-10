@@ -38,10 +38,6 @@ Who are you?
 Describe a fictitious organization. Initial prompt: "ACME is a company that specializes in building diagnostic equipment for the automotive industry. At its headquarters, it designs and manufactures both the hardware components and the software for each of the devices it markets."
 ```
 
-```
-Create a simplified Organizational Chart for the ACME company.
-```
-
 ## Assessment generation
 
 _Clean memory_
