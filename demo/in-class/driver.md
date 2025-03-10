@@ -1,4 +1,4 @@
-# Demo (template)
+# Demo
 
 - LLM
     - Model: models/gemini-2.0-flash
