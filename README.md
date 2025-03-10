@@ -62,6 +62,12 @@ If you see the following screen, the Cat has started correctly.
 > docker pull ghcr.io/cheshire-cat-ai/core
 > ```
 
+> [!IMPORTANT]
+> For more information on configuring the Cat, see the
+> [Cheshire Cat documentation page](https://cheshire-cat-ai.github.io/docs/quickstart/installation-configuration/).
+>
+> I suggest you to check out the full documentation website, it's quite comprehensive and well written!
+
 ### Step 3: Obtain an API key from an LLM service
 
 You can choose whatever LLM provider you prefer. In the following, instructions for Google Gemini are given,
@@ -99,6 +105,11 @@ ollama serve
 > Personally, I use the following command on my Linux machine.
 > ```shell
 > OLLAMA_HOST=0.0.0.0:11434 ollama serve
+> ```
+>
+> Then, in the Cheshire Cat UI, I use the following as base URL.
+> ```
+> http://host.docker.internal:11434
 > ```
 
 ### Step 5: Download a local model with Ollama (optional, for local LLMs)
